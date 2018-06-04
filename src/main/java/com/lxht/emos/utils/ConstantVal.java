@@ -1,0 +1,13 @@
+package com.lxht.emos.utils;
+
+/**
+ * Created by fanyuli on 2018/5/25.
+ */
+public interface ConstantVal {
+    String USER_INFO = "USER_INFO";
+    String CHECK_CODE = "CHECK_CODE";
+    String ROLE_PREFIX = "ROLE_";
+    String PAR_CHECK_CODE = "checkCode";
+    String PAR_USER_NAME = "username";
+    String PAR_PASSWORD = "password";
+}
